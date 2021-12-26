@@ -1,0 +1,134 @@
+Diário das aulas de HTML E CSS3 2020 - MÓDULO 02
+
+Dia 10 de fevereiro de 2021
+Psicologia das Cores - @Curso em Vídeo HTML5 e CSS3
+
+Dia 11 de fevereiro de 2021
+Representando Cores com CSS3 - @Curso em Vídeo HTML5 e CSS3
+
+Dia 23 de fevereiro de 2021
+Harmonia de cores - @Curso em Vídeo HTML5 e CSS3
+
+Dia 06 de março de 2021
+Paleta de cores - @Curso em Vídeo HTML5 e CSS3
+
+Dia 07 de março de 2021
+Criando um exemplo real - @Curso em Vídeo HTML5 e CSS3
+
+Dia 09 de março de 2021
+Primeiros passos em Tipografia - @Curso em Vídeo HTML5 e CSS3
+
+Dia 09 de março de 2021
+Anatomia do tipo - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 13 de março de 2021
+Famílias de fonte com CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 22 de março de 2021
+Tamanho de fonte e suas medidas - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 24 de março de 2021
+Peso, estilo e shorthand font - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 26 de março de 2021
+Usando Google Fonts - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 02 de abril de 2021
+Usando fontes externas baixadas - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 06 de abril de 2021
+Capturando as fontes usadas em um site - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 07 de abril de 2021
+Detectando fontes dentro de imagens - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 10 de abril de 2021
+Alinhamento de textos com CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 13 de abril de 2021
+Usando o id com CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula do dia 13 de abril de 2021
+As diferenças entre id e class - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 21 de abril de 2021
+Pseudo-classes em CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 03 de maio de 2021
+Pseudo-elementos em CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 10 de maio de 2021
+Modelo de Caixas: primeiros passos - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 15 de maio de 2021
+Modelo de Caixas na prática (parte 1) - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 29 de maio de 2021
+Modelo de Caixas na prática (parte 2) - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 29 de maio de 2021
+Grouping Tags em HTML5 - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 01 de junho de 2021
+Sombra nas Caixas - @Curso em Vídeo de HTML5 e CSS3
+
+Aula de 03 de junho de 2021
+Caixas com vértices arredondados - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 08 de junho de 2021
+Bordas decoradas
+
+Aula de 15 de junho de 2021
+DESAFIO do Módulo 2 - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 15 de junho de 2021
+Criando um projeto a partir do zero - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 15 de junho de 2021
+Navegando pelo projeto pronto - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 15 de junho de 2021
+Planejando a estrutura do seu site - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 23 de junho de 2021
+Organizando o conteúdo do site - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 23 de junho de 2021
+Variáveis em CSS - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 30 de junho de 2021
+Responsividade para sites - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 06 de julho de 2021
+Responsividade na prática - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 16 de julho de 2021
+Configurando o header e o menu do site - @Curso em Vídeo HTML5 e CSS3
+
+Aula de  21  de julho de 2021
+Melhorando o formato do conteúdo - @Curso em Vídeo HTML5 e CSS3
+
+Aula de 04 de agosto de 2021
+Rodapé, conteúdo periférico e links - @Curso em Vídeo HTML5 e CSS3
+
+Aulas de 05  de agosto de 2021
+Tornando um vídeo responsivo - @Curso em Vídeo HTML5 e CSS3
+
+Dia 17 de agosto de 2021
+Fim do Módulo 2: certificados liberados - @Curso em Vídeo HTML5 e CSS3
+
+..............................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+DIÁRIO DA AULAS DE HTML5 E CSS3 2020
+
+DIA 12 de outubro de 2020
+ Precisamos fazer um acordo - @Curso em Vídeo HTML5 e CSS3
+
+DIA 20 de outubro de 2020
+ Como a Internet funciona? - @Curso em Vídeo HTML5 e CSS3
+
+DIA 20 de outubro de 2020
+ O que é domínio e hospedagem? - @Curso em Vídeo HTML5 e CSS3
+
+DIA 20 de outubro de 2020
+ O que é domínio e hospedagem? - @Curso em Vídeo HTML5 e CSS3
+ 
+DIA 21 de outubro de 2020
+ A diferença entre HTML, CSS e JavaScript - @Curso em Vídeo HTML5 e CSS3
+
+DIA 22 de outubro de 2020
+ Front-end, Back-end e Full stack - @Curso em Vídeo HTML5 e CSS3
+ Instalando todas as ferramentas - @Curso em Vídeo HTML5 e CSS3
+
+DIA 27 de outubro de 2020
+ Seu primeiro código HTML - @Curso em Vídeo HTML5 e CSS3
+
+DIA 29 de outubro de 2020
+ Parágrafos e Quebras - @Curso em Vídeo HTML5 e CSS3 ( continua na próxima aula )
+
+DIA 03 de novembro de 2020
+ Símbolos e Emoji no seu site - @Curso em Vídeo HTML5 e CSS3
+ Você tem o direito de usar qualquer imagem no seu site? - @Curso em Vídeo HTML5 e CSS3
+ 
+DIA 05 de novembro de 2020 
+ Quais são os formatos para imagens na Web? - @Curso em Vídeo HTML5 e CSS3
+
+DIA 13  de novembro de 2020
+O tamanho das imagens importa para um site? - @Curso em Vídeo HTML5 e CSS3 ( aula 17 ) 
+
+DIA  14  de novembro  de 2020 ( AULA 19 )
+Como mudar o favicon de um site - @Curso em Vídeo HTML5 e CSS3 ( ícone de favoritos )
+
+DIA 16 de novembro de 2020
+Hierarquia de Títulos - @Curso em Vídeo HTML5 e CSS3 ( aula 20 )
+
+DIA 18 de novembro de 2020
+Semântica na HTML5 é importante - @Curso em Vídeo HTML5 e CSS3
+
+
+DIA 20 de novembro de 2020
+Negrito e Itálico do jeito certo - @Curso em Vídeo HTML5 e CSS3
+
+DIA 23 de novembro de 2020
+Formatações adicionais em HTML - @Curso em Vídeo HTML5 e CSS3
+
+DIA 26 de novembro de 2020
+Citações e Códigos - @Curso em Vídeo HTML5 e CSS3
+
+DIA 27 de novembro de 2020
+Listas OL e UL - @Curso em Vídeo HTML5 e CSS3 ( aula 25 )
+
+DIA  01 de dezembro de 2020
+Listas mistas e de definição - @Curso em Vídeo HTML5 e CSS3 ( aula 26 ) 
+
+DIA  01 de dezembro de 2020
+Links e Âncoras em HTML5 - @Curso em Vídeo HTML5 e CSS3
+
+Dia 03 de dezembro de 2020
+Links internos - @Curso em Vídeo HTML5 e CSS3
+
+Dia 03 de dezembro de 2020
+Links para download - @Curso em Vídeo HTML5 e CSS3
+
+Dia 03 de dezembro de 2020
+Desafios propostos - @Curso em Vídeo HTML5 e CSS3
+
+Dia 11 de dezembro de 2020
+Imagens Dinâmicas - @Curso em Vídeo HTML5 e CSS3
+
+Dia 17 de dezembro de 2020
+Imagens que se adaptam sozinhas - @Curso em Vídeo HTML5 e CSS3
+
+
+Dia 20 de dezembro de 2020
+Colocando áudio no seu site - @Curso em Vídeo HTML5 e CSS3
+
+Dia 21 de dezembro de 2020
+Formatos de vídeo para seu site - @Curso em Vídeo HTML5 e CSS3
+
+Dia 21 de dezembro de 2020
+Vídeos em hospedagem própria - @Curso em Vídeo HTML5 e CSS3
+
+Dia 21 de dezembro de 2020
+Incorporação de vídeos externos - @Curso em Vídeo HTML5 e CSS3
+
+Dia 22 de dezembro de 2020
+Estilos CSS inline - @Curso em Vídeo HTML5 e CSS3
+
+Dia 23 de dezembro de 2020
+Estilos CSS internos - @Curso em Vídeo HTML5 e CSS3
+
+Dia 23 de dezembro de 2020
+Estilos CSS externos - @Curso em Vídeo HTML5 e CSS3
+
+
+
+
+
+ 
+ 
+                         
