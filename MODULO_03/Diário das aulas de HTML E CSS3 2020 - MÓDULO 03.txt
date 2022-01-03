@@ -26,5 +26,9 @@ github    jaimefranciscomaia
 Aula de 30 de outubro de 2021
 Primeiro repositório git e GitHub - @Curso em Vídeo HTML5 e CSS3
 
+Aula de 26 de dezembro de 2021
+Gerenciando Repositórios GitHub - @Curso em Vídeo HTML5 e CSS3
+
+
 
 
